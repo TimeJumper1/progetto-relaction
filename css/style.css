@@ -150,6 +150,7 @@ footer{
     border-radius: 50%;
     text-align: center;
     line-height: 100px;
+    color: white;
 }
 .list_text{
    color: rgb(82, 82, 82);
